@@ -34,10 +34,14 @@ while True:
 ```
 ## OUPUT
 client:
+
+
 ![image](https://github.com/arulsuriyalokeshy/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/149130151/83d22389-f112-4640-8ac0-8be08cff987e)
 
 
 Server:
+
+
 ![image](https://github.com/arulsuriyalokeshy/3a.Sockets_Creation_for_Echo_Client_and_Echo_Server/assets/149130151/a2d3438e-008d-4e58-99b5-d44f75eb62c3)
 
 ## RESULT
